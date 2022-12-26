@@ -1,0 +1,65 @@
+{
+  "uid": {
+    "__TYPE__": "UIDContent",
+    "value": "flat"
+  },
+  "subtitle_hero": {
+    "__TYPE__": "FieldContent",
+    "value": "knife",
+    "type": "Text"
+  },
+  "title": {
+    "__TYPE__": "FieldContent",
+    "value": "wagon",
+    "type": "Text"
+  },
+  "description_hero": {
+    "__TYPE__": "StructuredTextContent",
+    "value": [
+      {
+        "type": "paragraph",
+        "content": {
+          "text": "Occaecat labore ut irure exercitation exercitation quis ex pariatur reprehenderit ullamco reprehenderit aliquip. Est aute labore commodo sit laboris magna enim tempor ut tempor exercitation magna deserunt sit sit. Voluptate exercitation ex aute cillum est laborum pariatur ex amet nostrud elit nulla nisi."
+        }
+      }
+    ]
+  },
+  "label_button_hero": {
+    "__TYPE__": "FieldContent",
+    "value": "night",
+    "type": "Text"
+  },
+  "url_button": {
+    "__TYPE__": "LinkContent",
+    "value": {
+      "__TYPE__": "ExternalLink",
+      "url": "https://prismic.io"
+    }
+  },
+  "label_trailer": {
+    "__TYPE__": "FieldContent",
+    "value": "development",
+    "type": "Text"
+  },
+  "thumbnail_trailer": {
+    "__TYPE__": "ImageContent",
+    "origin": {
+      "id": "main",
+      "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+      "width": 5243,
+      "height": 3495
+    },
+    "url": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+    "width": 5243,
+    "height": 3495,
+    "edit": {
+      "zoom": 1,
+      "crop": {
+        "x": 0,
+        "y": 0
+      },
+      "background": "transparent"
+    },
+    "thumbnails": {}
+  }
+}
